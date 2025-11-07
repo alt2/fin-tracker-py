@@ -1,0 +1,3 @@
+"""
+fintracker package initialization.
+"""
