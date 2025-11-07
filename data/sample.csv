@@ -1,0 +1,5 @@
+date,description,amount,category
+2025-01-01,Salary,5000,Income
+2025-01-05,Rent,-1500,Expense
+2025-01-10,Groceries,-200,Expense
+2025-01-15,Freelance,800,Income
